@@ -1,0 +1,1 @@
+export const LOCATION_CARDS_SHOWN = 6;
